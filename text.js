@@ -49,11 +49,5 @@
 //    - **JSON Parsing** and **Stringifying**
 //    - Using **Local Storage** and **Session Storage** for simple state management
 
-// ### 11. **Immutable Data Principles**
-//    - Understanding immutability in JavaScript and why it’s essential for React
-
-// ### 12. **Event Loop & Async Patterns**
-//    - **Call Stack, Event Loop, Task Queue, and Microtasks**
-//    - Understanding how asynchronous code executes in JavaScript
 
 // These concepts will give you a strong JavaScript foundation, making your transition to React more seamless.
